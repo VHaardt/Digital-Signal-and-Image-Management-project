@@ -10,4 +10,4 @@ Notebooks:
 - StartGAN.ipynb: code for GAN model
 - Demo.ipynb: code for demo
 
-Also there is the presentation called "Presentation_Digital.pptx" 
+Also there is the presentation called "Presentation_Digital.pdf" 
